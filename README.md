@@ -1,6 +1,6 @@
+<!--
 ### Hi there 👋
 
-<!--
 **michaelfw/michaelfw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Halo semua! 
+
+Perkenalkan nama saya **Michael Fredy Wijaya**.  
+
+Saya seorang **Mahasiswa Teknik Komputer** di **Institut Teknologi Sepuluh Nopember**.  
+
+Saya sedang mempelajari dasar-dasar Bahasa Jepang dan Bahasa Korea.  
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/michael-fredy-wijaya-0b69741b2/)ku ya.
