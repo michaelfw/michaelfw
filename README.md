@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 # Hi! 
 
-I am **Michael Fredy W.**.  
+I am **Michael Fredy W**.  
 
 📫 How to reach me: [Linkedin] https://www.linkedin.com/in/michael-fredy-wijaya-0b69741b2/
+                    
                     [Gmail]    michaelfredywijaya@gmail.com
 
 <!-- Statistik
