@@ -14,15 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Halo semua! 
+# Hi! 
 
-Perkenalkan nama saya **Michael Fredy Wijaya**.  
+I am **Michael Fredy W.**.  
 
-Saya seorang **Mahasiswa Teknik Komputer** di **Institut Teknologi Sepuluh Nopember**.  
-
-Saya sedang mempelajari dasar-dasar Bahasa Jepang dan Bahasa Korea.  
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/michael-fredy-wijaya-0b69741b2/)ku ya.
+📫 How to reach me: [Linkedin] https://www.linkedin.com/in/michael-fredy-wijaya-0b69741b2/
+                    [Gmail]    michaelfredywijaya@gmail.com
 
 <!-- Statistik
 <p align="left">
